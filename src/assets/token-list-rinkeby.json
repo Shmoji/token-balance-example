@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
+    "symbol": "DAI",
+    "decimals": 18
+  },
+  {
+    "name": "Ethereum",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "symbol": "WETH",
+    "decimals": 18
+  },
+  {
+    "name": "Ethereum Arbitration Service",
+    "address": "0xe9fB56E32743f66ed2859c66E4D9A94657Fce17B",
+    "symbol": "EAR",
+    "decimals": 18
+  }
+]
